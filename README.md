@@ -1,1 +1,1 @@
-# Probabilist-Machine-Learning
+# Probabilistic-Machine-Learning
